@@ -1,4 +1,11 @@
-##Review One: Digital Aponte by Linda M. Rodriguez and Ada Ferrer
+##Review One: Digital Aponte 
+
+Project Name: Digital Aponte
+
+Name of Project Director(s) or Team Members:Linda M. Rodriguez and Ada Ferrer
+
+Project URLS: http://aponte.hosting.nyu.edu/
+
 ![Photo of Digital Aponte Website](https://jereeemiaah.github.io/Jeremiah-L.-Bethea/images/AponteReviewCover.jpeg)
 
 ###What is Digital Aponte?
