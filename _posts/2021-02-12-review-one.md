@@ -2,11 +2,12 @@
 
 Project Name: Digital Aponte
 
-Name of Project Director(s) or Team Members:Linda M. Rodriguez and Ada Ferrer
+Name of Project Director(s) or Team Members: Linda M. Rodriguez and Ada Ferrer
 
 Project URLS: http://aponte.hosting.nyu.edu/
 
-![Photo of Digital Aponte Website](https://jereeemiaah.github.io/Jeremiah-L.-Bethea/images/AponteReviewCover.jpeg)
+
+![Photo of Digital Aponte Website](https://jereeemiaah.github.io/Jeremiah-L.-Bethea/images/AponteReviewCover.png)
 
 ### What is Digital Aponte?
 
