@@ -5,7 +5,7 @@ Hello, welcome back to my blog. Recently,  I’ve been given the opportunity to 
 ![Photo of Yellow Wallpaper Book Cover](https://jereeemiaah.github.io/Jeremiah-L.-Bethea/images/TheYWPCover.jpg) 
  
 ### The Process
-The process began with a copy of one of the sections in Stetson’s manuscript. That manuscript was translated into a word document; I held the responsibility of translating the document into digital format. A key element of my task was ensuring that the digital format remained consistent with the manuscript; this included maintaining page beginnings, paragraphs sections, weird spacing,underlined words, misspelled words, etc.. 
+The process began with a copy of one of the sections in [Stetson’s manuscript](https://schlesinger.radcliffe.harvard.edu/onlinecollections/gilman/item/13726678/40). That manuscript was translated into a word document; I held the responsibility of translating the document into digital format. A key element of my task was ensuring that the digital format remained consistent with the manuscript; this included maintaining page beginnings, paragraphs sections, weird spacing,underlined words, misspelled words, etc.. 
 ![Photo of Document to Translate](https://jereeemiaah.github.io/Jeremiah-L.-Bethea/images/YWPDocu.png) 
  
 ### Tools Used
