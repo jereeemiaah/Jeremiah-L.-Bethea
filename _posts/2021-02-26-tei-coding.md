@@ -1,6 +1,7 @@
 ##TEI Coding 
  
-###Introduction:
+###Introduction
+
 Hello, welcome back to my blog. Recently,  I’ve been given the opportunity to assist with creating a digital edition of Charlotte Perkins Stetson’s _The Yellow Wall-paper_.  _The Yellow Wall-paper_ was originally published in January of 1892. The piece is regarded as a significant work of early American feminist literature. The work  illustrates the attitudes towards mental and physical health of women in the 19th century. Working with a piece that has such a historical impact made me very excited about this opportunity. 
 ![Photo of Yellow Wallpaper Book Cover](https://jereeemiaah.github.io/Jeremiah-L.-Bethea/images/TheYWPCover.jpeg) 
  
