@@ -3,7 +3,7 @@
 ## Project Director(s): Tara Morton 
 ## Project URL: https://www.mappingwomenssuffrage.org.uk/
 ## Reviewer: Jeremiah L. Bethea
-(Insert Image of the website main page)
+![Photo of Mapping Wonen's Suffrage Website](https://jereeemiaah.github.io/Jeremiah-L.-Bethea/images/MWSReviewCover.png)
 
 ## Summary 
 In 2017 Tara Morton created _Mapping Women’s Suffrage_. The project website design and development is accredited to Paul Grove and Tim Hollies. The Votes for the Women campaign resulted in an extensive battle in which many different individuals participated in. In England during 1911, the suffrage campaign reached its peak; several individuals had become active members of this battle for the Women Campaign. Morton uses _Mapping Women’s Suffrage_ to illustrate the different individuals who supported this movement in England during 1911; using the resources of today. An interactive map to identify the different voters is an aspect of this website. The website also incorporates many other features to express the importance of this history still today.
