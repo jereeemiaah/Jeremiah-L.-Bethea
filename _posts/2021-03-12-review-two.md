@@ -17,6 +17,8 @@ The _Suffrage Map & Biographies_ tab is used to express the mission of this proj
 ![Photo of Map Information](https://jereeemiaah.github.io/Jeremiah-L.-Bethea/images/MWSMapInfo.png)
  
 The suffrage society element of the map is significant. The circles on the map are categorized by color; each circle color represents the suffrage society that each voter was a member of. This aspect of the map can be confusing at first. The information on the right side of the map that allows site visitors to manipulate the circles based on suffrage society is abbreviated. Without prior knowledge of suffrage societies, individuals wouldn't understand how to properly manipulate the map using the insufficient information given. However, there is a guide at the bottom of the tab that elaborates on the different societies featured on the map. 
+
+![Photo of Map Guide](https://jereeemiaah.github.io/Jeremiah-L.-Bethea/images/MWSGuide.png)
  
 The map may also be manipulated by the voter’s census response and map style. The census response element of the map fits well with the overall project topic. However, the purpose of the different map styles is unclear, but it is a cool feature to play around with. 
  
