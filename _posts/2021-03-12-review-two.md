@@ -13,6 +13,7 @@ The website _Mapping Women Suffrage_ has a sleek and simple layout. When viewers
  
 ## Suffrage Map & Biographies Tab
 The _Suffrage Map & Biographies_ tab is used to express the mission of this project. On this tab, viewers are instantly introduced to a map with several colored circles. At first glance, the circles and their purpose can be confusing due to the lack of description. However, after studying the map it can be realized that each circle is used to identify individuals who supported the women's campaign in England during 1911. When a visitor clicks on a circle they are able to find out a voter's gender, age, marital status, address, census response, suffrage society, and read a biographical text. 
+
 ![Photo of Map Information](https://jereeemiaah.github.io/Jeremiah-L.-Bethea/images/MWSMapInfo.png)
  
 The suffrage society element of the map is significant. The circles on the map are categorized by color; each circle color represents the suffrage society that each voter was a member of. This aspect of the map can be confusing at first. The information on the right side of the map that allows site visitors to manipulate the circles based on suffrage society is abbreviated. Without prior knowledge of suffrage societies, individuals wouldn't understand how to properly manipulate the map using the insufficient information given. However, there is a guide at the bottom of the tab that elaborates on the different societies featured on the map. 
