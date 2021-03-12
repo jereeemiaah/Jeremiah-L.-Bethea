@@ -1,8 +1,8 @@
 # Mapping Women Suffrage D.H. Review
 
-Project Director(s): Tara Morton 
-Project URL: https://www.mappingwomenssuffrage.org.uk/
-Reviewer: Jeremiah L. Bethea
+## Project Director(s): Tara Morton 
+## Project URL: https://www.mappingwomenssuffrage.org.uk/
+## Reviewer: Jeremiah L. Bethea
 (Insert Image of the website main page)
 
 ## Summary 
