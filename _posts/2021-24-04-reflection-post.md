@@ -1,7 +1,7 @@
 ![Start Photo of Blog Post](https://jereeemiaah.github.io/Jeremiah-L.-Bethea/images/TheEnd.jpg)
 
 
-# The End
+# The End of an Era
 The end of an era is near. The final days of Digital Humanities (DH) are approaching, and there are many things to reflect on. Digital humanities was a foreign concept to me when I first embarked on this journey. However, today it has become very familiar. The last step of this journey is a [Grant Project Proposal](https://deanna-stover.github.io/coursesCNU/2021/engl350spring2021/grant), because of the work completed prior I am confident in my abilities to conquer this task.
 
 ## The Digital Humanities Journey
@@ -9,6 +9,7 @@ I simply decided to take digital humanities this semester because my major requi
 
 ## The Impact
 Completing these different assignments and readings has been very helpful in assisting my understanding of digital humanities. In particular, I’d have to say that the [review blog posts](https://deanna-stover.github.io/coursesCNU/2021/engl350spring2021/blog-posts#review-one) have prepared me the most for my last step in digital humanities and with my understanding of the subject. These posts were stressful at times and often made me want to give up. However, the award outweighs the stress. Completing review blog posts required me to deeply study other digital humanities projects and through the studying of each project, I was able to develop a fuller understanding of what digital humanities is. I studied how the technology and humanity elements of each project are merged together, and these elements showcased the true essence of digital humanities. Reading the different papers assigned this semester greatly helped as well. In particular, Anne Burdick’s _[A short guide to the digital humanities]_(https://jeffreyschnapp.com/wp-content/uploads/2013/01/D_H_ShortGuide.pdf) has been a piece that really stuck with me. It is the first reading that allowed me to believe that I could tackle the task of actually creating my own digital humanities project. The impact of these assignments and readings has not only helped me understand digital humanities better but they have also allowed me to gain skills with HTML, blogging, creating grant project proposals, and more. 
+
 ![Burdick's book](https://jereeemiaah.github.io/Jeremiah-L.-Bethea/images/AnneBook.png)
 
 ## The Last Step
